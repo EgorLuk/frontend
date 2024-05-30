@@ -1,4 +1,4 @@
-export const BASE_URL = 'http://localhost:3001/api'
+export const BASE_URL = 'http://yp-frontend.nomorepartiesco.ru/api'
 
 export const endpoints = {
   games: `${BASE_URL}/games`,
